@@ -51,6 +51,7 @@
       "collection": "role",
       "via": "users",
       "plugin": "users-permissions",
+      "dominant": true,
       "configurable": false
     }
   }
